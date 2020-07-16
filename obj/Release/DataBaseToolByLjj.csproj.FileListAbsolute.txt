@@ -1,0 +1,14 @@
+D:\NetCode\DataBaseToolByLjj\bin\Release\DataBaseToolByLjj.exe.config
+D:\NetCode\DataBaseToolByLjj\bin\Release\DataBaseToolByLjj.exe.manifest
+D:\NetCode\DataBaseToolByLjj\bin\Release\DataBaseToolByLjj.application
+D:\NetCode\DataBaseToolByLjj\bin\Release\DataBaseToolByLjj.exe
+D:\NetCode\DataBaseToolByLjj\bin\Release\DataBaseToolByLjj.pdb
+D:\NetCode\DataBaseToolByLjj\obj\Release\DataBaseToolByLjj.Form1.resources
+D:\NetCode\DataBaseToolByLjj\obj\Release\DataBaseToolByLjj.Properties.Resources.resources
+D:\NetCode\DataBaseToolByLjj\obj\Release\DataBaseToolByLjj.csproj.GenerateResource.cache
+D:\NetCode\DataBaseToolByLjj\obj\Release\DataBaseToolByLjj.csproj.CoreCompileInputs.cache
+D:\NetCode\DataBaseToolByLjj\obj\Release\DataBaseToolByLjj.exe.manifest
+D:\NetCode\DataBaseToolByLjj\obj\Release\DataBaseToolByLjj.application
+D:\NetCode\DataBaseToolByLjj\obj\Release\DataBaseToolByLjj.exe
+D:\NetCode\DataBaseToolByLjj\obj\Release\DataBaseToolByLjj.pdb
+D:\NetCode\DataBaseToolByLjj\obj\Release\DataBaseToolByLjj.csprojAssemblyReference.cache
